@@ -7,7 +7,7 @@ from PIL import Image, ImageFont, ImageDraw
 from time import sleep, strftime
 
 TRAY_TOOLTIP = 'Hexclock'
-TRAY_ICON = 'icon.png'
+TRAY_ICON = 'assets/icon.png'
 BRIGHT_COLORS = True
 
 ###############################################################################
@@ -39,7 +39,7 @@ def hexclock():
 
             img = Image.new(mode="RGBA", size=desktop_res, color=color)
             draw = ImageDraw.Draw(img)
-            font = ImageFont.truetype("Lato-Thin.ttf", 68)
+            font = ImageFont.truetype("assets/Lato-Thin.ttf", 68)
             # font =  ImageFont.truetype("Roboto-Thin.ttf", 70)
             # draw.text((818, 450), "#"+timestr, (255, 255, 255), font=font)
 
