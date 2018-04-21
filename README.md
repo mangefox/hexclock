@@ -8,3 +8,6 @@ Comes with two options:
  * `Literal colors` - The background color will be the literal hex-code corresponding to the current time. Will only contain quite dark colors.
 
 Binary available under [releases](https://github.com/mangefox/hexcolor/releases)
+
+![fox_avatar.jpg]({{site.baseurl}}/fox_avatar.jpg)
+
