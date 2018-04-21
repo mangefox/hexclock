@@ -9,5 +9,3 @@ Comes with two options:
 
 Binary available under [releases](https://github.com/mangefox/hexcolor/releases)
 
-![fox_avatar.jpg]({{site.baseurl}}/fox_avatar.jpg)
-
